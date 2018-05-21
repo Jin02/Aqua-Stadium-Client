@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "cocos2d::CCRect::containsPoint(cocos2d::CCPoint const&amp;) const:CCGeometry.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "getMinY()">
+            </PersistentString>
+            <PersistentString
+               value = "getMaxX()">
+            </PersistentString>
+            <PersistentString
+               value = "getMaxY()">
+            </PersistentString>
+            <PersistentString
+               value = "getMinX()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cocos2d::CCNode::boundingBox():CCNode.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Shop::ccTouchesBegan(cocos2d::CCSet*, cocos2d::CCEvent*):Shop.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "p">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoMgr::loadData(char const*):InfoMgr.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GameSystem::init():GameSystem.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "InfoMgr::_loadFishPart(Sqlite3Base*, FISHPART_TYPE):InfoMgr.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

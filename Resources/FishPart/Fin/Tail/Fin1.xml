@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with http://www.physicseditor.de -->
+<bodydef version="1.0">
+    <bodies numBodies="1">
+
+        <body name="ㅁㅜㄹㄱㅗㄱㅣ01_ㄲㅗㄹㅣ_01" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="1"
+                >
+
+
+                <polygon numVertexes="4">
+
+                    <vertex x="7.0000" y="-8.5000" />
+
+                    <vertex x="8.0000" y="-8.5000" />
+
+                    <vertex x="9.0000" y="8.5000" />
+
+                    <vertex x="-3.5000" y="2.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+    </bodies>
+    <metadata>
+        <format>1</format>
+        <ptm_ratio>32</ptm_ratio>
+    </metadata>
+</bodydef>
